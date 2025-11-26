@@ -38,7 +38,11 @@ indicated paths under `Trained_Weights/`:
 - `Trained_Weights/MWCNN/MWCNN_150_300.pth`  
 - `Trained_Weights/MWCNN/MWCNN_300_500.pth`  
 - `Trained_Weights/MWCNN/MWCNN_500_1000.pth`  
-  These MWCNN models are trained following the original MWCNN paper and
-  are not hosted in this repository due to GitHub’s file size limit.  
+  These MWCNN models are the ones used in our paper
+
+> Zan Chen, Tao Wang, Jun Li, Wenlong Guo, Yuanjing Feng,  
+> Xueming Qian, and Xingsong Hou.  
+> **Discard Significant Bits of Compressed Sensing: A Robust Image Coding for Resource-Limited Contexts.**  
+> ACM Trans. Multimedia Comput. Commun. Appl. 21, 1, Article 31 (January 2025), 25 pages. 
   **Please download them from the authors’ shared storage and update the links below:**
   https://drive.google.com/drive/folders/1T5yvuDCToA_NU11GLnZKoVaXq2at7fSL?usp=drive_link
