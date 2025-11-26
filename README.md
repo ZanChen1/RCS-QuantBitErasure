@@ -22,4 +22,4 @@ indicated paths under `Trained_Weights/`:
   These MWCNN models are trained following the original MWCNN paper and
   are not hosted in this repository due to GitHub’s file size limit.  
   **Please download them from the authors’ shared storage and update the links below:**
-  - https://drive.google.com/drive/folders/1T5yvuDCToA_NU11GLnZKoVaXq2at7fSL?usp=drive_link
+  https://drive.google.com/drive/folders/1T5yvuDCToA_NU11GLnZKoVaXq2at7fSL?usp=drive_link
