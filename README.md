@@ -1,5 +1,22 @@
 This repository contains the official implementation of our paper "Robust Compressive Sensing lmaging forQuantization Bit Erasure".
 
+## Main script and how to run
+
+The main entry point for the experiments is:
+
+- `main/main.m`
+
+To run the default experiment:
+
+1. Make sure
+   - MATLAB can find this repository (current folder set to the repo root),
+   - the Python environment is configured as described above (via `pyenv`),
+   - all pretrained weights have been downloaded and placed under `Trained_Weights/` in the correct subfolders.
+   - 
+2. In MATLAB, run:
+  clear; close all;
+  main
+
 ## Python environment
 
 The Matlab–Python bridge (Restormer, MWCNN, DPIR, SigCNN) was tested with
