@@ -1,5 +1,24 @@
 This repository contains the official implementation of our paper "Robust Compressive Sensing lmaging forQuantization Bit Erasure".
 
+## Python environment
+
+The Matlab–Python bridge (Restormer, MWCNN, DPIR, SigCNN) was tested with
+the following Python environment:
+
+- Python 3.7.16
+- PyTorch 1.12.0+cu116
+- torchvision 0.13.0+cu116 (installed together with PyTorch)
+- numpy 1.21.6
+- opencv-python 4.8.1.78
+- einops 0.6.1
+- PyYAML 6.0
+- basicsr (>= 1.4.2, as used in the original Restormer implementation)
+
+All other Python modules used in the code,
+such as `MWCNN_Nested_2group`, `models.network_unet`,
+`DPIR_utils`, and `SigCNN_all`,
+are part of this repository and do not need to be installed separately.
+
 ## Pretrained models
 
 This repository does **not** ship large pretrained weights.  
