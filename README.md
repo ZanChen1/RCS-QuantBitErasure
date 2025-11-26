@@ -12,7 +12,7 @@ To run the default experiment:
    - MATLAB can find this repository (current folder set to the repo root),
    - the Python environment is configured as described above (via `pyenv`),
    - all pretrained weights have been downloaded and placed under `Trained_Weights/` in the correct subfolders.
-   - 
+   
 2. In MATLAB, run:
   clear; close all;
   main
